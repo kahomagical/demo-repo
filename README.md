@@ -9,3 +9,5 @@ Watch tutorial on YouTube
 ## Local Development 
 
 1. Open index.html in your browser.
+2. Added comment
+3. Added comment 2 
